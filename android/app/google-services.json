@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "95491980288",
+    "firebase_url": "https://overeasyselfservice.firebaseio.com",
+    "project_id": "overeasyselfservice",
+    "storage_bucket": "overeasyselfservice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95491980288:android:31fadfe37b0b5e08",
+        "android_client_info": {
+          "package_name": "com.cashlez.selfservicekiosk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95491980288-osqdtv9ljd69bqpu4urkdl38pmnmopul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV2zBEfh36wgA0TL3CZnJcgblGG-rDrds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95491980288-osqdtv9ljd69bqpu4urkdl38pmnmopul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
